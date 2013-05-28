@@ -5,6 +5,7 @@ Tinkering with Esper, cause its shiny.  Contains simple CSV reader and EPL state
 
 
 To build type mvn clean install
-or
+
 To run, type java -cp <classpath> dmk.esper.EsperExample
+
 To run from Eclipse, Right click on EsperExample and Run as Java application
