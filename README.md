@@ -1,11 +1,10 @@
 esper-webevents
 ====================
 
-Tinkering with Esper, cause its shiny.  Contians simple CSV reader and EPL statement
+Tinkering with Esper, cause its shiny.  Contains simple CSV reader and EPL statement
 
 
 To build type mvn clean install
-
-Run, java -cp <classpath> EsperExample
-or from eclipse
-Right click on EsperExample and Run as Java application
+or
+To run, type java -cp <classpath> dmk.esper.EsperExample
+To run from Eclipse, Right click on EsperExample and Run as Java application
